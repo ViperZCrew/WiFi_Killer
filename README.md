@@ -10,6 +10,9 @@
 # chmod 777 *
 # bash wifi_killer.sh
 # 
+# All in one command:
+# git clone https://github.com/ViperZCrew/WiFi_Killer && cd WiFi_Killer && chmod 777 * && bash wifi_killer.sh
+#
 # optional you can type:
 # ifconfig
 # 

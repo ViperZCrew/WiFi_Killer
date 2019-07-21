@@ -49,11 +49,11 @@ All in one command:
  If you type: iwconfig and you have a network of any wlan0* like wlan0monmon 
  Then do this:
 
- `$ iw wlan0monmon del`
+ ```$ iw wlan0monmon del```
 
- `$ airmon-ng stop wlan0mon` 
+ ```$ airmon-ng stop wlan0mon```
 or 
- `$ airmon-ng stop wlan0`
+ ```$ airmon-ng stop wlan0```
 
 ## Disclaimer
  

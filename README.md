@@ -28,10 +28,10 @@
 
 ## Installation
  
-```$ git clone https://github.com/ViperZCrew/WiFi_Killer
- $ cd WiFi_Killer 
- $ chmod 777 *.sh
- $bash wifi_killer.sh```
+``` $ git clone https://github.com/ViperZCrew/WiFi_Killer
+``` $ cd WiFi_Killer```
+``` $ chmod 777 *.sh```
+``` $bash wifi_killer.sh```
  
 All in one command:
 ```$ git clone https://github.com/ViperZCrew/WiFi_Killer && cd WiFi_Killer && chmod 777 *sh && bash wifi_killer.sh```

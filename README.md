@@ -7,7 +7,7 @@
 * [Fixing Error](#fixing-error)
 * [Disclaimer](#disclaimer)
 * [Credits](#credits)
-
+* [Social Media](#social-media)
 ## General Information
  
  This is an simple coded script for killing wireless networks nearby your location.
@@ -28,10 +28,14 @@
 
 ## Installation
  
-```$ git clone https://github.com/ViperZCrew/WiFi_Killer```
-```$ cd WiFi_Killer```
-```$ chmod 777 *.sh```
-```$bash wifi_killer.sh```
+```$ git clone https://github.com/ViperZCrew/WiFi_Killer```.
+
+```$ cd WiFi_Killer```.
+
+```$ chmod 777 *.sh```.
+
+```$bash wifi_killer.sh```.
+
  
 All in one command:
 ```$ git clone https://github.com/ViperZCrew/WiFi_Killer && cd WiFi_Killer && chmod 777 *sh && bash wifi_killer.sh```
@@ -64,4 +68,11 @@ or
 ## Credits
 
 * Credits: ViperZCrew - MrBlackX
+
+## Social Media
+Telegram:
+* @MrBlackX
+* @On1c0n3
+* @ViperZCrew
+
 
